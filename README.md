@@ -18,7 +18,6 @@ This is a web-based M3U Playlist Creator that allows users to create, edit, down
 ### Main Interface
 ![Main Interface](ss1.png)
 
-
 ### Requirements ⚙️
 
 - **PHP (7.4 or higher)** 💻
