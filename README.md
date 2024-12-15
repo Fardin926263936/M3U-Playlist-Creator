@@ -15,7 +15,7 @@ This is a web-based M3U Playlist Creator that allows users to create, edit, down
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshot1.png)
+![Main Interface](ss1.png)
 
 
 ### Requirements ⚙️
