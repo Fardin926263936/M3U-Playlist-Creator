@@ -1,5 +1,5 @@
 # M3U Playlist Creator 🎶
-- [Click Here Download All File](https://github.com/Professor-906/M3U-Playlist-Creator/raw/refs/heads/main/All%20File-M3U%20Playlist%20Creator.zip) (zip File)
+- [📥 Click Here Download All File](https://github.com/Professor-906/M3U-Playlist-Creator/raw/refs/heads/main/All%20File-M3U%20Playlist%20Creator.zip) (zip File)
 
 This is a web-based M3U Playlist Creator that allows users to create, edit, download, and manage their own M3U playlists. The application supports adding channels with custom metadata, editing, and removing channels, and downloading the playlist with a custom filename. It also includes a feature to reset the entire playlist.
 
